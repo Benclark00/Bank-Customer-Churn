@@ -13,13 +13,15 @@ two different types of products tend to churn.
 
 ## Churn Folder
 
+### Images Folder
+- Images of Query Results
+
 ### Report.pbi
 - Power BI report
 
 ### Customer-Churn.csv
 - Original Dataset
 
-### 
+### Data Cleaning and EDA.sql
+- Holds all queries applied to the data to clean and explore the original dataset
 
-### Images Folder
-- Images of Query Results
