@@ -16,6 +16,9 @@ two different types of products tend to churn.
 ### Report.pbi
 - Power BI report
 
+### Customer-Churn.csv
+- Original Dataset
+
 ### 
 
 ### Images Folder
