@@ -16,7 +16,7 @@ two different types of products tend to churn.
 ### Images Folder
 - Images of Query Results
 
-### Customer-Churn.csv
+### Customer-Churn-Records.csv
 - Original Dataset
 
 ### Data Cleaning and EDA.sql
