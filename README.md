@@ -7,3 +7,7 @@ shown the relative churn rate based off each factor and pages for each, as well 
 or if they had at least three products, as I determined the gender component was more negligible, depsite stil being a factor. If I had done this for a real organization some of the
 recommendations I would have would be to look into the at risk customers, specifically those that are based in Germany, as well as trying to understand why the users that surpass
 two different types of products tend to churn.
+
+
+# Project Contents
+
