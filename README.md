@@ -11,3 +11,12 @@ two different types of products tend to churn.
 
 # Project Contents
 
+## Churn Folder
+
+### Report.pbi
+- Power BI report
+
+### 
+
+### Images Folder
+- Images of Query Results
